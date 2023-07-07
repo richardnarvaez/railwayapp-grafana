@@ -1,4 +1,4 @@
-# Grafana for railway.app
+# Grafana for railway.app 1
 
 Deploy Grafana  Community Edition on railway with one click.
 
